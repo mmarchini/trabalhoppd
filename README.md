@@ -8,7 +8,7 @@ As principais diferenças entre a implementação abaixo e o exemplo apresentado
 Utilizei comentários no código para explicar melhor a minha solução. Os comentários originais do exemplo foram removidos para facilitar a visualziação dos trechos de código modificados.
 
 
-```
+```java
 class Worker implements Runnable {
     int myRow;
     int mySolver;
